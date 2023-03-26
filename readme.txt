@@ -1,1 +1,1 @@
-some text inside the file
+created by Konstantin
